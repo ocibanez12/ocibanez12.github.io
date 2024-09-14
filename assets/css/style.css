@@ -1,0 +1,50 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	border: none;
+	outline: none;
+  color: #31302f;
+}
+
+.fondonav{
+  background-color:#f8eee1;
+}
+
+.separacion{
+  background-color: #31302f;
+  height: 20%;
+}
+
+.estudio-bg{
+ background-color: #8490C8;
+
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.hero {
+  background-image: url(../img/bg-hero/back.png);
+  background-size: cover;
+  background-position: center;
+  background-color: #FBB04C;
+}
+
+h1, h5 {
+  font-weight: 500;
+}
+
+p, .card-text {
+  font-weight: 300;
+}
+
+.card {
+  margin-top: 20px;
+}
+
+footer {
+  background-color: #31302f;
+}
